@@ -6,6 +6,8 @@
 ## :bookmark_tabs: Contenido de la semana:
 
 ## Dia 1:
+Github Ciancoders 
+https://github.com/contents-pasantia/content1
 
 Temas:
 - Presentacion general. 
