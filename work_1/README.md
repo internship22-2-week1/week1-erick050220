@@ -7,3 +7,5 @@
 
  2. captura donde los archivos ya estan alojados en github:
   ![img](../assets/dia1_archivos%20subidos%20a%20github.PNG)
+
+  ..
