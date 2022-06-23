@@ -68,5 +68,8 @@ fixFiles(files3) # ['file', 'file(1)', 'icon', 'icon(1)', 'icon(1)(1)']
 1. Se crea la funcion
 2. le pasamos el nombre del array a la funcion
 3. inicializamos un ciclo for que leera cada posicion del array
-4. 
+4. para validar, se crea un ciclo if y le pasamos la posicion 
+5. si al encontrar un repetido se lo pasa al else
+4. luego se crea un array con el nombre de archivos que se repite 
+5. cada array repetido, tendra un entero el cual sera el numero de veces
 ### fin
