@@ -38,12 +38,14 @@ con las siguientes compras ficticias, siguiendo su propuesta.
 
 
 ![img](../assets/ac1.png)
+````javascript
 ### paco
 Una de 350 ML y una de 100 ML
 ### hugo
 si trae trae donde llevar se le vende los 185 ML de lo contrario seria dos de 100 ML
 ### luis
 si trae donde llevar se le vende los 940 ML de lo contrario seria una de 500 ML, una de 350ML y otra de 100 ML
+````
 
 2. 👩‍💻 estás trabajando en un sistema operativo para ser usado en el taller de Santa Claus 🎅.
 
