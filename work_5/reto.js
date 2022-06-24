@@ -19,6 +19,6 @@ if(string1.length <=20){
 return sum + parseInt(temp);
 }
 
-let string1 = '4-7+8+9/2*3'
+let string1 = '4+5+9+8+2/7+9*9/6-4(4*6)*9'
 
 console.log(calculadora(string1))
