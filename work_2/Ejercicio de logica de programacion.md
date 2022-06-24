@@ -23,13 +23,11 @@ Una propuesta seria reciclar
 2. Plasme la descripción de su algoritmo.
 
  ### inicio
-- 1.se pregunta al cliente que cantidad de ML desea
-- 2.se pregunta si trae botellas 
-- 3.sino trae se le vende las botellas
-- 4.si necesita 100 ML se le vende una botella
-- 5.si necesita 250 ML se le vende una botella
-- 6.si necesita 350 ML se le vende una botella  sino hay en existencia se le vende una de 100 ML y otra de 250 ML
--  7.si necesita 500 ML se le vende una botella  sino hay en existencia se le vende dos de 250 ML
+1. se pregunta al cliente que cantidad de ML desea
+4. si necesita 100 ML se le vende una botella
+5. si necesita 250 ML se le vende una botella
+6. si necesita 350 ML se le vende una botella  sino hay en existencia se le vende una de 100 ML y otra de 250 ML
+7. si necesita 500 ML se le vende una botella  sino hay en existencia se le vende dos de 250 ML
 ### fin
 
 
@@ -39,6 +37,8 @@ con las siguientes compras ficticias, siguiendo su propuesta.
 
 ![img](../assets/ac1.png)
 ````javascript
+###juan
+una de 500 ML y dos de 100 ML
 ### paco
 Una de 350 ML y una de 100 ML
 ### hugo
